@@ -30,9 +30,14 @@
         "name": "Construction Center",
         "friendBonusUniques": [
           "[+5]% Production when constructing [All] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+10]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+15]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+20]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
+          "[+8]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+12]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+15]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
+
+          "[-2]% maintenance cost for buildings [in capital] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[-7]% maintenance cost for buildings [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[-9]% maintenance cost for buildings [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[-12]% maintenance cost for buildings [in capital] <starting from the [Atomic era]>",
             
         ],
         "allyBonusUniques": [
@@ -40,8 +45,38 @@
           "[+20]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+25]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
           "[+30]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
-            
+
+          "[-10]% maintenance cost for buildings [in capital] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[-15]% maintenance cost for buildings [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[-20]% maintenance cost for buildings [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[-25]% maintenance cost for buildings [in capital] <starting from the [Atomic era]>",
         ],
-        "color": [145, 12, 8]
+        "color": [38, 68, 115]
     },
+    
+        "name": "Agricultural Supplier",
+        "friendBonusUniques": [
+          "[+5]% Production when constructing [All] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+8]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+12]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+15]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
+
+          "[-2]% maintenance cost for buildings [in capital] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[-7]% maintenance cost for buildings [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[-9]% maintenance cost for buildings [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[-12]% maintenance cost for buildings [in capital] <starting from the [Atomic era]>",
+            
+        
+        "allyBonusUniques": [
+          "[+10]% Production when constructing [All] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+20]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+25]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+30]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
+
+          "[-10]% maintenance cost for buildings [in capital] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[-15]% maintenance cost for buildings [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[-20]% maintenance cost for buildings [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[-25]% maintenance cost for buildings [in capital] <starting from the [Atomic era]>",
+        ],
+        "color": [38, 68, 115]
 ]
