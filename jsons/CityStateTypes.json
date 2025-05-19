@@ -53,30 +53,91 @@
         ],
         "color": [38, 68, 115]
     },
-    
+    {
         "name": "Agricultural Supplier",
         "friendBonusUniques": [
-          "[+5]% Production when constructing [All] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+8]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+12]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+15]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
 
-          "[-2]% maintenance cost for buildings [in capital] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[-7]% maintenance cost for buildings [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[-9]% maintenance cost for buildings [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[-12]% maintenance cost for buildings [in capital] <starting from the [Atomic era]>",
-            
-        
         "allyBonusUniques": [
-          "[+10]% Production when constructing [All] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+20]% Production when constructing [All] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+25]% Production when constructing [All] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+30]% Production when constructing [All] buildings [in all cities] <starting from the [Atomic era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Food] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+2 Food] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
 
-          "[-10]% maintenance cost for buildings [in capital] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[-15]% maintenance cost for buildings [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[-20]% maintenance cost for buildings [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[-25]% maintenance cost for buildings [in capital] <starting from the [Atomic era]>",
+          "[+1 Gold] from [Farm] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Gold] from [Farm] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Gold] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+2 Gold] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
         ],
-        "color": [38, 68, 115]
+        "color": [38, 115, 51]
+    }
+
+        {
+        "name": "Resource Extractors",
+        "friendBonusUniques": [
+          "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
+        ]
+        "allyBonusUniques": [
+          "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+2 Production] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+4 Production] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+4 Production] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
+
+          "[+1 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+2 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+3 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+4 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
+        ],
+        "color": [115, 106, 38]
+    }
+
+    {
+        "name": "Advanced Researchers",
+        "friendBonusUniques": [
+          "[+1 Science] from [Academy] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Science] from [Academy] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Science] from [Academy] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+3 Science] from [Academy] tiles [in all cities] <starting from the [Atomic era]>",
+        ]
+        "allyBonusUniques": [
+          "[+2 Science] from [Academy] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+3 Science] from [Academy] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+4 Science] from [Academy] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+6 Science] from [Academy] tiles [in all cities] <starting from the [Atomic era]>",
+
+          "[+1 Science] from [Science] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Science] from [Science] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Science] from [Science] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+3 Science] from [Science] buildings [in all cities] <starting from the [Atomic era]>",
+        ],
+        "color": [51, 153, 121]
+    }
+    {
+        "name": "Cultural Elites",
+        "friendBonusUniques": [
+          "[+1 Culture] from [Landmark] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Culture] from [Landmark] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Culture] from [Landmark] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+3 Culture] from [Landmark] tiles [in all cities] <starting from the [Atomic era]>",
+        ]
+        "allyBonusUniques": [
+          "[+2 Culture] from [Landmark] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+3 Culture] from [Landmark] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+4 Culture] from [Landmark] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+6 Culture] from [Landmark] tiles [in all cities] <starting from the [Atomic era]>",
+
+          "[+1 Culture] from [Culture] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
+          "[+1 Culture] from [Culture] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Culture] from [Culture] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+3 Culture] from [Culture] buildings [in all cities] <starting from the [Atomic era]>",
+        ],
+        "color": [51, 153, 121]
+    }
+    
 ]
